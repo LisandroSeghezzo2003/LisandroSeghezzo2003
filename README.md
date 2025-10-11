@@ -1,5 +1,4 @@
 <h3 align="center">Hola, soy <b>Lisandro</b> 👋</h3>
-<picture><img width="1040" height="271" alt="Screenshot 2025-10-11 172943" src="https://github.com/user-attachments/assets/d927ecbb-83f3-42cc-bbfa-d6b256daa7d0" /></picture>
 
 # **Sobre mi**
 
