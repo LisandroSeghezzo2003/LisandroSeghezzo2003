@@ -32,4 +32,4 @@
 <br>
 ## 📧 Contacto
 
-- **Email:** sseghezzoprieri@gmail.com
+- **Email:** seghezzoprieri@gmail.com
